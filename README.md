@@ -1,2 +1,2 @@
-# pollclassifier2
- This is a semester project for our Artificial Intelligence class
+# Poll Classifier 2
+ This is my Semester Project for Artificial Intelligence class
